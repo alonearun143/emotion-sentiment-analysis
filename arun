@@ -1,0 +1,11 @@
+/emotion-analyzer/
+  ├── data/                  # raw and cleaned data
+  ├── notebooks/             # EDA, preprocessing, model training
+  ├── src/
+  │    ├── preprocessing.py
+  │    ├── model.py
+  │    ├── predict.py
+  ├── app/
+  │    ├── app.py            # Streamlit or Flask app
+  ├── requirements.txt
+  └── README.md
